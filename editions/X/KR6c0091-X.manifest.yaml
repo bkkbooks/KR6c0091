@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0091_000-X.yaml, hash: 'sha256:e673337af1a793f6bd2c0ac4708783b95b30ed2a3a33492124ed4005a63163d0'}
+  - {seq: 0, filename: KR6c0091_000-X.yaml, hash: 'sha256:607a09d644fa05eae57bf2f9c97427776c34e6a0ae59de8203699344c739381c'}
   - {seq: 1, filename: KR6c0091_001-X.yaml, hash: 'sha256:9d3eb5021889a675d935c856bd21f1ab1ff16561ee482ae841ed68f7e452947f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0091_000-X.markers.yaml, hash: 'sha256:7bd3adfd68230ea414c8afa13c20ae71c759b031ba1ed8e15d398089fad73208'}
+  - {seq: 0, role: markers, filename: assets/KR6c0091_000-X.markers.yaml, hash: 'sha256:1a816a7e3437e92552fe543bb844c4ee7cbe76ef32cd9d94bb9d924b81b38341'}
   - {seq: 1, role: markers, filename: assets/KR6c0091_001-X.markers.yaml, hash: 'sha256:8ebcd3ed8ffa46312f3362884584c0fc5c871ba8f021cf9a5934432af29689d4'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 503-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-2
     span:
-    - front
+    - body
     - 533
     - 533
   label: No. 503-B
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-3
     span:
-    - front
+    - body
     - 884
     - 884
   label: 前儀
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-4
     span:
-    - front
+    - body
     - 884
     - 884
   label: 金剛經啟請
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-5
     span:
-    - front
+    - body
     - 928
     - 928
   label: 淨口業真言
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-6
     span:
-    - front
+    - body
     - 947
     - 947
   label: 淨三業真言
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-7
     span:
-    - front
+    - body
     - 980
     - 980
   label: 安土地真言
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-8
     span:
-    - front
+    - body
     - 1008
     - 1008
   label: 普供養真言
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-9
     span:
-    - front
+    - body
     - 1037
     - 1037
   label: 奉請
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-10
     span:
-    - front
+    - body
     - 1184
     - 1184
   label: 奉請
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-11
     span:
-    - front
+    - body
     - 1222
     - 1222
   label: 發願文
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-12
     span:
-    - front
+    - body
     - 1275
     - 1275
   label: 云何梵
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0091_X_000-mulu-13
     span:
-    - front
+    - body
     - 1318
     - 1318
   label: 開經偈
@@ -535,4 +535,4 @@ table_of_contents:
   label: 讚
   type: mulu
   level: 1
-hash: sha256:0a20289db231d38cfc8369144f231bd11e94ce64eba85cfd9abcf9ba56fe9dc4
+hash: sha256:1337f5f7f2d3a4b725e0f0227b595d01bf7ef109e1129b84b341af4e3023fb1f
